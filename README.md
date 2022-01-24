@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Narasimha @nartech
 - 👀 I’m interested in trying out new stuff
 - 🌱 I’m currently learning Java, Design patterns, Micro services, Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate in the above areas 
+- 📫 How to reach me ... 
 
 <!---
 nartech/nartech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
